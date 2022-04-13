@@ -4,6 +4,8 @@ Flappy bird remake, made with an educational purposes during my third year of st
 
 ![flappybird_gif](https://user-images.githubusercontent.com/49866616/163255605-bda48a78-71b8-4269-8969-6f789cd0eb10.gif)
 
+*Flappy bird is a mobile game where the player controlls a bird, attempting to fly between columns of green pipes without hitting them.*
+
 # BUILD WITH
 
 * UNITY 
